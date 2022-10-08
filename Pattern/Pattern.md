@@ -12,3 +12,9 @@
 
 | [Pattern 5](https://practice.geeksforgeeks.org/problems/triangle-pattern/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_5) | ![image](/Pattern/assets/Pattern%205.JPG) |
 | --- | --- |
+
+| [Pattern 6](https://practice.geeksforgeeks.org/problems/triangle-number-1661489840/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_6) | ![image](/Pattern/assets/Pattern%206.JPG) |
+| --- | --- |
+
+| [Pattern 7](https://practice.geeksforgeeks.org/problems/triangle-pattern-1661492263/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_7) | ![image](/Pattern/assets/Pattern%207.JPG) |
+| --- | --- |
