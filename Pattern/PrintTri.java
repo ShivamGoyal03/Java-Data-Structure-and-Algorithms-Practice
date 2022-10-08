@@ -1,11 +1,12 @@
+package Pattern;
 import java.util.*;
-public class PrintSquare{
+public class PrintTri{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the size of the square: ");
+        System.out.println("Enter the size of the Triangle: ");
         int size = sc.nextInt();
-        for (int i = 0; i < size; i++) {
-            for (int j = 0; j < size; j++) {
+        for (int i = 1; i <= size; i++) {
+            for (int j = 0; j < i; j++) {
                 System.out.print("* ");
             }
             System.out.println();
