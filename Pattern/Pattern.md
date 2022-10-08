@@ -6,3 +6,6 @@
 
 | [Pattern 3](https://practice.geeksforgeeks.org/problems/triangle-number/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_3) | ![image](/Pattern/assets/Pattern%203.JPG)
 | --- | --- |
+
+| [Pattern 4](https://practice.geeksforgeeks.org/problems/triangle-number-1661428795/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_4) | ![image](/Pattern/assets/Pattern%204.JPG)
+| --- | --- |

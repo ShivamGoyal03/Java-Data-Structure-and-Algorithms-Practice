@@ -1,3 +1,5 @@
+// Pattern 2
+
 package Pattern;
 import java.util.*;
 public class PrintTri{

@@ -1,3 +1,5 @@
+// Pattern 1
+
 package Pattern;
 
 import java.util.*;
