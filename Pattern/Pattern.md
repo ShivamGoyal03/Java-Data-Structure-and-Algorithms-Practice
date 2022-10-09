@@ -21,3 +21,9 @@
 
 | [Pattern 8](https://practice.geeksforgeeks.org/problems/triangle-pattern-1661493231/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_8) | ![image](/Pattern/assets/Pattern%208.JPG) |
 | --- | --- |
+
+| [Pattern 9](https://practice.geeksforgeeks.org/problems/pattern/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_9) [Wrong Submission Link] | ![image](/Pattern/assets/Pattern%209.JPG) |
+| --- | --- |
+
+| [Pattern 10](https://practice.geeksforgeeks.org/problems/triangle-pattern-1661718013/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_10) | ![image](/Pattern/assets/Pattern%2010.JPG) |
+| --- | --- |
