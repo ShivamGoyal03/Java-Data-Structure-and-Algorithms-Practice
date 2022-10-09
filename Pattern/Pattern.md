@@ -18,3 +18,6 @@
 
 | [Pattern 7](https://practice.geeksforgeeks.org/problems/triangle-pattern-1661492263/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_7) | ![image](/Pattern/assets/Pattern%207.JPG) |
 | --- | --- |
+
+| [Pattern 8](https://practice.geeksforgeeks.org/problems/triangle-pattern-1661493231/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_8) | ![image](/Pattern/assets/Pattern%208.JPG) |
+| --- | --- |
