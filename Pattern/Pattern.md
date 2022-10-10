@@ -39,3 +39,15 @@
 
 | [Pattern 14](https://practice.geeksforgeeks.org/problems/triangle-pattern-1662284916/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_14) | ![image](/Pattern/assets/Pattern%2014.JPG) |
 | --- | --- |
+
+| [Pattern 15](https://practice.geeksforgeeks.org/problems/triangle-pattern-1662285196/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_15) | ![image](/Pattern/assets/Pattern%2015.JPG) |
+| --- | --- |
+
+| [Pattern 16](https://practice.geeksforgeeks.org/problems/triangle-pattern-1662285334/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_16) | ![image](/Pattern/assets/Pattern%2016.JPG) |
+| --- | --- |
+
+| [Pattern 17](https://practice.geeksforgeeks.org/problems/triangle-pattern-1662285911/1/?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_17) | ![image](/Pattern/assets/Pattern%2017.JPG) |
+| --- | --- |
+
+| [Pattern 18](https://practice.geeksforgeeks.org/problems/triangle-pattern-1662286302/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_18) | ![image](/Pattern/assets/Pattern%2018.JPG) |
+| --- | --- |
