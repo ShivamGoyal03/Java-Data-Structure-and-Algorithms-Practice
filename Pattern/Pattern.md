@@ -36,3 +36,6 @@
 
 | [Pattern 13](https://practice.geeksforgeeks.org/problems/triangle-pattern-1661718712/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_13) | ![image](/Pattern/assets/Pattern%2013.JPG) |
 | --- | --- |
+
+| [Pattern 14](https://practice.geeksforgeeks.org/problems/triangle-pattern-1662284916/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_14) | ![image](/Pattern/assets/Pattern%2014.JPG) |
+| --- | --- |

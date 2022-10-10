@@ -2,7 +2,7 @@
 
 package Pattern;
 import java.util.*;
-public class InversePyramidNum {
+public class Pattern6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter size of pyramid: ");

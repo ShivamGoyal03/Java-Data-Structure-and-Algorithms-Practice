@@ -3,7 +3,7 @@
 package Pattern;
 
 import java.util.*;
-public class PrintSquare{
+public class Pattern1{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size of the square: ");
