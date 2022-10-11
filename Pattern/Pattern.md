@@ -25,6 +25,9 @@
 | [Pattern 9](https://practice.geeksforgeeks.org/problems/pattern/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_9) [Wrong Submission Link] | ![image](/Pattern/assets/Pattern%209.JPG) |
 | --- | --- |
 
+| [Pattern 9_2](https://practice.geeksforgeeks.org/problems/pattern/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_9) | ![image](/Pattern/assets/Pattern%209_2.JPG) |
+| --- | --- |
+
 | [Pattern 10](https://practice.geeksforgeeks.org/problems/triangle-pattern-1661718013/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_10) | ![image](/Pattern/assets/Pattern%2010.JPG) |
 | --- | --- |
 
@@ -50,4 +53,13 @@
 | --- | --- |
 
 | [Pattern 18](https://practice.geeksforgeeks.org/problems/triangle-pattern-1662286302/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_18) | ![image](/Pattern/assets/Pattern%2018.JPG) |
+| --- | --- |
+
+| [Pattern 19](https://practice.geeksforgeeks.org/problems/double-triangle-pattern/1/?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_19) | ![image](/Pattern/assets/Pattern%2019.JPG) |
+| --- | --- |
+
+| [Pattern 20](https://practice.geeksforgeeks.org/problems/double-triangle-pattern-1662287416/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_20) | ![image](/Pattern/assets/Pattern%2020.JPG) |
+| --- | --- |
+
+| [Pattern 21](https://practice.geeksforgeeks.org/problems/square-pattern-1662287714/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_21) | ![image](/Pattern/assets/Pattern%2021.JPG) |
 | --- | --- |
