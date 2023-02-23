@@ -1,7 +1,6 @@
 package ArraysAndArrayList;
 import java.util.*;
 
-import javax.swing.text.html.StyleSheet;
 public class Swapping {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 5};
