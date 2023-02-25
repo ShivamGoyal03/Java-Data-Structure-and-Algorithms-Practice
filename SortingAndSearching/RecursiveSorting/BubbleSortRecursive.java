@@ -1,6 +1,6 @@
 // Kunal Kushwaha Bubble Sort using recursive function
 
-package SortingAndSearching;
+package SortingAndSearching.RecursiveSorting;
 
 import java.util.Arrays;
 

@@ -1,6 +1,6 @@
 // Recursive Insertion Sort
 
-package SortingAndSearching;
+package SortingAndSearching.RecursiveSorting;
 import java.util.*;
 public class InsertionSortRecursive {
     public static void main(String[] args) {
