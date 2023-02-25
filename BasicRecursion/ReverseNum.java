@@ -1,4 +1,4 @@
-package BasicRecursion.Recursion;
+package BasicRecursion;
 
 public class ReverseNum {
     static int sum = 0;

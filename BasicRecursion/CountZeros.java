@@ -1,4 +1,4 @@
-package BasicRecursion.Recursion;
+package BasicRecursion;
 import java.util.*;
 public class CountZeros {
     public static void main(String[] args) {
