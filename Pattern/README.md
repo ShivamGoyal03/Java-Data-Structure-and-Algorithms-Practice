@@ -63,3 +63,6 @@
 
 | [Pattern 21](https://practice.geeksforgeeks.org/problems/square-pattern-1662287714/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_21) | ![image](/Pattern/assets/Pattern%2021.JPG) |
 | --- | --- |
+
+| [Pattern 22](https://practice.geeksforgeeks.org/problems/square-pattern-1662666141/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=pattern_22) | ![image](/Pattern/assets/Pattern%2022.png) |
+| --- | --- |
