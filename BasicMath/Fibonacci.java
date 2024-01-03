@@ -26,7 +26,7 @@ public class Fibonacci {
             pf[0] = 1;
             return pf;
         }
-        pf[0] = 1;
+        pf[0] = 0;
         pf[1] = 1;
         for (int i = 2; i < n; i++) {
             pf[i] = pf[i-1] + pf[i-2];
